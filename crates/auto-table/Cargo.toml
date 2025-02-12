@@ -1,0 +1,5 @@
+[package]
+name = "auto-table"
+version = "0.1.0"
+authors = ["Gabriel Lugo <dev.gabriel.lugo@gmail.com>"]
+edition = "2021"
